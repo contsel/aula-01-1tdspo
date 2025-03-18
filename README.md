@@ -1,4 +1,6 @@
-# aula-01-1tdspo
-## Meu Primeiro repositorio
+1o - COMMIT
+# 🚀 Meu Repositório
 
-*O professor Ale é muito engraçado e com certeza é um otimo professor.
+Olá, mundo! 👋
+
+Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
